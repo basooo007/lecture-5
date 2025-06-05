@@ -1,0 +1,276 @@
+.nav-link {
+    font-size: 24px;
+    font-weight: 700;
+    color: #8D81FF;
+    margin: 15px;
+    vertical-align: middle;
+    margin-left: 81px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.active {
+    color: #4E6FAE;
+    display: inline-block;
+}
+
+.face-icon {
+    width: 50px;
+    margin-left: 52px;
+    margin-right: 41px;
+}
+
+.tube-icon {
+    width: 71px;
+    height: 49px;
+    margin-left: 41px;
+}
+
+.line {
+    width: 2px;
+    height: 48px;
+    background-color: #5012D5;
+}
+
+.date {
+    background-color: #5012D5;
+    width: 50px;
+    height: 50px;
+    font-size: 26px;
+    color: #84FF81;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 52px;
+}
+
+.month {
+    color: #8D81FF;
+    font-size: 24px;
+    padding: 18px 1000px 8px 52px;
+}
+
+.art-header {
+    font-weight: 700;
+    font-size: 20px;
+    color: #4E6FAE;
+    margin-left: 52px;
+    margin-bottom: 13px;
+}
+
+
+.contaqt-heder {
+    color: #4E6FAE;
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 162px;
+    margin-top: 92px;
+    margin-bottom: 27px;
+}
+
+.location {
+    color: #7E8898;
+    display: inline;
+    font-size: 20px;
+    margin-left: 162px;
+    margin-bottom: 23px;
+}
+
+.loc-street {
+    display: inline;
+    font-size: 20px;
+}
+
+.tel {
+    color: #7E8898;
+    display: inline;
+    font-size: 20px;
+    margin-left: 162px;
+    margin-bottom: 11px;
+}
+
+.tel-nom {
+    display: inline;
+    font-size: 20px;
+}
+
+.el-fosta {
+    color: #7E8898;
+    display: inline;
+    font-size: 20px;
+    margin-left: 162px
+}
+
+.fosta {
+    display: inline;
+    font-size: 20px;
+}
+
+.navigation ul {
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px 40px;
+    background-color: white;
+}
+
+.logo {
+    display: inline-block;
+    height: 40px;
+}
+
+.art-img {
+    margin-left: 52px;
+    display: inline-block;
+    margin-bottom: 155px;
+}
+
+.article {
+    color: #4E6FAE;
+    size: 16px;
+    display: inline;
+}
+
+.container {
+    display: flex;
+    gap: 66px;
+}
+
+.text {
+    max-width: 800px;
+    font-family: 'Sylfaen', sans-serif;
+    font-size: 16px;
+    color: #4E6FAE;
+    size: 16px;
+    font-weight: bold;
+}
+
+.text p {
+    margin-bottom: 16px;
+    font-size: 16px;
+}
+
+.text ol {
+    margin-top: 2px;
+    color: #4E6FAE;
+    font-size: 16px;
+}
+
+.text ol li {
+    margin-bottom: 10px;
+}
+
+.textp {
+    max-width: 800px;
+    font-family: 'Sylfaen', sans-serif;
+    font-size: 16px;
+    color: #4E6FAE;
+    size: 16px;
+    margin-left: 52px;
+    margin-top: 32px;
+    margin-bottom: 143px;
+    font-weight: bold;
+}
+
+.box {
+    width: 1660px;
+    height: 735px;
+    background-color: #E7E7E7;
+    margin-bottom: 106px;
+}
+
+.main-images {
+    margin-left: 194px;
+}
+
+.main {
+    margin-left: 192px;
+}
+
+.contact {
+    margin-left: 96px;
+}
+
+.margin-1 {
+    margin-bottom: 23px;
+}
+
+.margin-2 {
+    margin-bottom: 11px;
+}
+
+.art-img-1 {
+    margin-left: 52px;
+}
+
+.con-heder {
+    color: #4E6FAE;
+    font-size: 26px;
+    display: inline-block;
+    font-weight: bold;
+    margin: 120px 18px 26px 194px
+}
+
+.con-p {
+    color: #4E6FAE;
+    font-size: 26px;
+    display: inline-block;
+}
+
+.line-1 {
+    display: inline-block;
+    align-items: center;
+    margin-right: 17px;
+}
+
+.container-1 {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-left: 194px;
+    margin-bottom: 93px;
+    display: inline-block;
+}
+
+.cont-hederi {
+    color: #3F4145;
+    padding-left: 23px;
+    padding-top: 21px;
+    line-height: 100%;
+    font-weight: bold;
+}
+
+.cont-p {
+    color: #7E8898;
+    font-size: 18px;
+    display: inline-block;
+    line-height: 100%;
+    width: 344px; 
+}
+
+.cont-img {
+    display: inline-block;
+    margin-right: 27px;
+    margin-top: 29px;
+    margin-left: 36px;
+}
+.container-2 {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-left: 52px;
+    margin-bottom: 93px;
+    display: inline-block;
+}
+.map {
+    display: inline-block;
+}
+.cont-main {
+    display: inline-block;
+}
